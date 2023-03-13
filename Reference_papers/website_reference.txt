@@ -1,0 +1,8 @@
+1.CodeT5的概述
+https://towardsdatascience.com/beyond-codex-a-code-generation-model-that-you-can-train-6ac9bdcba07f
+
+2.Attention机制
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+3.Transformer讲解---Attention is all you need的解读
+https://jalammar.github.io/illustrated-transformer/
