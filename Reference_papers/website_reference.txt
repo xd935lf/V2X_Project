@@ -6,3 +6,9 @@ https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-s
 
 3.Transformer讲解---Attention is all you need的解读
 https://jalammar.github.io/illustrated-transformer/
+
+4.Fine-tune实例。微调了GPT-2使得其生成技术论文。
+https://pub.towardsai.net/i-fine-tuned-gpt-2-on-110k-scientific-papers-heres-the-result-9933fe7c3c26
+
+5.Transformer 的 documentation(我们用的T5，GPT-2,BERT,GPT都在这里面有介绍)
+https://huggingface.co/transformers/v4.7.0/index.html
